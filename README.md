@@ -1,6 +1,6 @@
 *** Easy CLOG Builder Install for Linux ARM 64 ***
 
-This version is based on sbcl 2.4.4
+This version is based on sbcl 2.4.5
 
 You must have openssh-client libsqlite3-dev installed e.g.
 	sudo rpm apt-get install openssh-client libsqlite3-dev
